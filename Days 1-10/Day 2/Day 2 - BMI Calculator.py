@@ -1,5 +1,3 @@
-from random import weibullvariate
-
 
 user_input_weight = float(input("What is your weight in kg? "))
 user_input_height = float(input("What is your hegith in m? "))
